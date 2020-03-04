@@ -10,9 +10,9 @@ def fread(filepath):
 
 
 setup(
-    name='mistune',
+    name='mistune2',
     version=mistune.__version__,
-    url='https://github.com/lepture/mistune',
+    url='https://github.com/gbrault/mistune',
     author='Hsiaoming Yang',
     author_email='me@lepture.com',
     description='A sane Markdown parser with useful plugins and renderers',
