@@ -19,9 +19,9 @@ A fast yet powerful Python Markdown parser with renderers and plugins.
 Convert Markdown to HTML with ease:
 
 ```python
-import mistune
+import mistune2
 
-mistune.html(your_markdown_text)
+mistune2.html(your_markdown_text)
 ```
 
 ## Sponsors
@@ -41,7 +41,7 @@ mistune.html(your_markdown_text)
 Installing mistune with pip:
 
 ```shell
-$ pip install mistune
+$ pip install git+https://github.com/gbrault/mistune.git --upgrade
 ```
 
 
