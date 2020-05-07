@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-import mistune
+import mistune2
 from setuptools import setup
 
 
