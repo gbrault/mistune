@@ -11,7 +11,7 @@ def fread(filepath):
 
 setup(
     name='mistune2',
-    version=mistune.__version__,
+    version=mistune2.__version__,
     url='https://github.com/gbrault/mistune',
     author='Hsiaoming Yang',
     author_email='me@lepture.com',
